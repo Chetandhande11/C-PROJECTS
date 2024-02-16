@@ -1,6 +1,6 @@
 # Hello Win Project
 
-This C code creates a basic Windows program showing the text "Pushpak Khadke" in a window. It uses the Win32 API to handle the window and messages. When you close the window, the program exits smoothly.
+This C code creates a basic Windows program showing the text "Chetan Dhande" in a window. It uses the Win32 API to handle the window and messages. When you close the window, the program exits smoothly.
 
 ## Technology Stack
 
