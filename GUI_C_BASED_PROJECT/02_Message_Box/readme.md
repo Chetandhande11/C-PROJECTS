@@ -27,7 +27,7 @@ This program is a simple Windows application written in C that demonstrates the 
    app.exe
 
 ## Output
-<img src="./Output/Output.png" alt="HelloWin">
+<img src="https://github.com/Chetandhande11/C-PROJECTS/tree/main/GUI_C_BASED_PROJECT/02_Message_Box/Output" alt="HelloWin">
 
 
 
