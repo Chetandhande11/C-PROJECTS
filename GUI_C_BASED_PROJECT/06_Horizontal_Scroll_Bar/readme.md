@@ -1,6 +1,6 @@
 # Horizontal Scroll Bar Project
 
-This project demonstrates a simple Windows GUI application using WinAPI to create a window with a horizontal scroll bar. The application displays the message "HELLO, WORLD!" within a bordered frame, allowing users to scroll horizontally to view content exceeding the window's width.
+This project demonstrates a simple Windows GUI application using WinAPI to create a window with a horizontal scroll bar. The application displays the message "CHETAN DHANDE" within a bordered frame, allowing users to scroll horizontally to view content exceeding the window's width.
 ## Technology Stck
 
 `Win32 API` <br>
