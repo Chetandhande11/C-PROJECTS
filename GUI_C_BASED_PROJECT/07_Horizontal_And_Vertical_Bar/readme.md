@@ -27,7 +27,7 @@ This project demonstrates C Windows application demonstrates the implementation 
    app.exe
 
 ## Output
-<img src="./Output/Output.png" alt="HelloWin">
+<img src="./Output/Output1.png" alt="HelloWin">
 
 
 
