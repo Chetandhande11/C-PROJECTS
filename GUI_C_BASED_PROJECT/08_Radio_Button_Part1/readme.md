@@ -1,4 +1,4 @@
-# Horizontal Scroll Bar Project
+# Radio Button Project
 
 This project demonstrates CcWindows application creates a basic window with a radio button labeled "Option". The window also displays a frame with the text "CHETAN DHANDE" centered within it.
 
