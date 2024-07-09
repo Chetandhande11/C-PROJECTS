@@ -1,6 +1,6 @@
-# Draw Pentagon Project
+# Draw Star Project
 
-This Windows desktop application demonstrates basic graphics programming using the Win32 API. It displays a pentagon shape filled with a gradient color transition from dark blue to light blue within a graphical window.
+This Windows desktop application demonstrates basic graphics programming using the Win32 API. It displays a star shape filled with a gradient color transition from dark blue to light blue within a graphical window.
 
 
 ## Technology Stack
